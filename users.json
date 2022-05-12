@@ -1,3 +1,3 @@
 [
-   { id: 2, name: 'Артем', surname: 'Ляшков', year : '1997', passwordNumber : 'MP2527318', file: 'https://i.imgur.com/VWsfxwd.jpg' }
+   { "id": 2, "name": 'Артем', "surname": 'Ляшков', "year" : '1997', "passwordNumber" : 'MP2527318', "file" : 'https://i.imgur.com/VWsfxwd.jpg' }
 ]
