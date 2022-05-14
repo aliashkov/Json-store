@@ -5,7 +5,8 @@
     "surname": "Ляшков",
     "year": "1997",
     "passwordNumber": "MP2527318",
-    "file": "https://i.imgur.com/VWsfxwd.jpg"
+    "file": "https://i.imgur.com/VWsfxwd.jpg",
+    "card": "3742454554001268"
   },
   {
     "id": 2,
@@ -13,6 +14,7 @@
     "surname": "Ляшков",
     "year": "1997",
     "passwordNumber": "MP2527318",
-    "file": "https://i.imgur.com/VWsfxwd.jpg"
+    "file": "https://i.imgur.com/VWsfxwd.jpg",
+    "card": "3742454554001269"
   }
 ]
