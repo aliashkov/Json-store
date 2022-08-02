@@ -12,7 +12,7 @@
     "incorrect_translates": ["собака","мышь"],
   },
   {
-    "id": 1,
+    "id": 3,
     "english_word": "rabbit",
     "correct_translate": "кролик",
     "incorrect_translates": ["мясо","муха"],
