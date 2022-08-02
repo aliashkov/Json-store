@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "english_word": "butterfly",
+    "correct_translate": "бабочка",
+    "incorrect_translates": ["масло","муха"],
+  },
+  {
+    "id": 2,
+    "english_word": "cat",
+    "correct_translate": "кот",
+    "incorrect_translates": ["собака","мышь"],
+  },
+  {
+    "id": 1,
+    "english_word": "rabbit",
+    "correct_translate": "кролик",
+    "incorrect_translates": ["мясо","муха"],
+  }
+]
